@@ -1,0 +1,30 @@
+img {
+    width: 28%;
+    margin: 2.4%;
+    
+}
+
+nav {
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 28%;
+    margin-left: 2.4%;
+    padding: 20px 0;
+    font-family: Raleway, sans-serif;
+    font-size: 1.5em;
+    padding: 1.2em 0;
+    color: gold;
+}
+
+div {
+    text-transform: uppercase;
+    border-top: 5px solid black;
+    font-family: Raleway, sans-serif;
+    border-bottom: 5px solid black;
+    width: 28%;
+    margin-left: 3.9%;
+    display: inline-block;
+    padding: 1.2em 0;
+    padding: 20px 0;
+    color: silver;
+}
